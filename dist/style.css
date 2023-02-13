@@ -1,0 +1,19 @@
+.card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+    background-color: beige;
+   
+}
+
+.card1 {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+    background-color: beige;
+    
+}
+
+.card-body {
+    background-color: blue;
+}
